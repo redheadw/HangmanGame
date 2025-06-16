@@ -1,30 +1,27 @@
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I read that Kotlin was allowed me to expand on what Java could do and I wanted to try it out with a simple App
 
-{Provide a description of the software that you wrote to demonstrate the Kotlin language.}
+I wrote a hangman app that only does six letter words
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wanted to see if I could write an app
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Kotlin was developed by google to work with Java to develop Android Apps. I used VS code which I do not recommend. IntellJ Idea was recommended, which I will next time.
 
-{Describe the programming language that you used and any libraries.}
+
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+https://kotlinlang.org/docs/home.html
+https://in-kotlin.com/ide/vscode/setup-vscode-for-kotlin-development/
+https://video.search.yahoo.com/yhs/search?ei=UTF-8&hsimp=yhs-att_001&hspart=att&p=how+to+create+a+kotlin+hangman+game+in+vs+code+java&type=E210US0G0#id=1&vid=29fa5cf415a448fab54ab6ab131bb1a0&action=view
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+I need to make sure my Java and Kotlin versions can talk to each other.
+I need to understand what has to happen to create a working enviroment.
+I need to give up doing anything for pleasure because I just don't have time for it.
 
-- Item 1
-- Item 2
-- Item 3
